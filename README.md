@@ -1,1 +1,1 @@
-# Login-page
+# A simple Login page using HTML.
